@@ -12,16 +12,17 @@ Zippity brings vibrant nostalgia and fun to the Solana blockchain as an SPL toke
 
 - **Blockchain**: Solana  
 - **Token Type**: SPL  
-- **Smart Contract Address**: [C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump](https://explorer.solana.com/address/C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump)  
-- **Explorer Link**: [Solana Explorer](https://explorer.solana.com/address/C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump)  
+- **Smart Contract Address**: [C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump] https://explorer.solana.com/address/C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump
+- **Explorer Link**: [Solana Explorer] https://explorer.solana.com/address/C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump
 
 ---
 
 ## Community Links  
 
-- **Twitter/X**: [@zippitydoo_dah](https://twitter.com/zippitydoo_dah)  
-- **Telegram**: [Zippity Official](https://t.me/zippity_Official)  
-- **Website**: [Zippity World](https://www.zipit.world/)  
+- **Twitter/X**: [@zippitydoo_dah] https://twitter.com/zippitydoo_dah  
+- **Telegram**: [Zippity Official]
+https://t.me/zippity_Official
+- **Website**: [Zippity World] https://www.zipit.world/
 
 ---
 
@@ -30,7 +31,7 @@ Zippity brings vibrant nostalgia and fun to the Solana blockchain as an SPL toke
 ### Token Metadata  
 - **Token Name**: Zippity  
 - **Symbol**: zippity 
-- **Logo**: ![Zippity Logo](https://www.zipit.world/)  
+- **Logo**: https://drive.google.com/file/d/1IFym-uuQ4UxSr4IEeMAyyJqAvjniGvqh/view?usp=drivesdk
 - **Decimals**: 6
 
 ### Tokenomics  
