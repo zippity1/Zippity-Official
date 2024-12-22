@@ -49,7 +49,7 @@ Building a strong and loyal community through social media, Telegram, and Discor
 3. Available on Phantom Wallet Zippity is currently available to buy and swap via Phantom Wallet. Exchange listings are in progress.
 
 4. Community growth and scholarship initiatives.
-   
+
 5.Animated series development and platform expansion.
 
 ---
