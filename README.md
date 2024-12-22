@@ -68,6 +68,6 @@ This repository is maintained by the official Zippity team. Always verify the to
 - Follow us on [Twitter]
 https://twitter.com/zippitydoo_dah.
 - Join the conversation on [Discord]
-https://discord.com/ZippityDooDah
+https://discord.com/ZippityDoo_Dah
 - Contribute to the project or suggest ideas on our [GitHub Issues]
 https://github.com/zippity1/zippity-official/issues
