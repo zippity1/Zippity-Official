@@ -50,7 +50,7 @@ Building a strong and loyal community through social media, Telegram, and Discor
 
 4. Community growth and scholarship initiatives.
 
-5.Animated series development and platform expansion.
+5. Animated series development and platform expansion.
 
 ---
 
