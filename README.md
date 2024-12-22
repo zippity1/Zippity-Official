@@ -63,3 +63,11 @@ We welcome contributions to improve Zippity’s ecosystem! Feel free to submit p
 ## Disclaimer  
 
 This repository is maintained by the official Zippity team. Always verify the token's mint address to ensure you're interacting with the legitimate Zippity token.
+
+## Join the Community
+- Follow us on [Twitter]
+https://twitter.com/zippitydoo_dah.
+- Join the conversation on [Discord]
+https://discord.com/ZippityDooDah
+- Contribute to the project or suggest ideas on our [GitHub Issues]
+https://github.com/zippity1/zippity-official/issues
