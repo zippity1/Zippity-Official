@@ -6,6 +6,8 @@ Welcome to the official repository for **Zippity**, the Crypto MemeCoin Ringmast
 ## Overview  
 **Zippity** is a community-driven token with a bold vision to inspire, entertain, and support human artistic talent. Built on blockchain technology, Zippity aims to cultivate creativity, support artistic and coding students, and create an animated series. Join the movement and become part of a growing, authentic community. 
 
+![ZIPPITY_Bold Vision](./ZIPPITY_Bold Vision.jpg)
+
 ---
 
 ## Key Information  
