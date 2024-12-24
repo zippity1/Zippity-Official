@@ -12,7 +12,8 @@ Welcome to the official repository for **Zippity**, the Crypto MemeCoin Ringmast
 
 - **Blockchain**: Solana  
 - **Token Type**: SPL  
-- **Smart Contract Address**: [C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump] https://explorer.solana.com/address/C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump
+- **Smart Contract Address**: C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump
+https://explorer.solana.com/address/C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump
 - **Explorer Link**: [Solana Explorer] https://explorer.solana.com/address/C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump
 
 ---
