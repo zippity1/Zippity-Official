@@ -72,3 +72,12 @@ https://twitter.com/zippitydoo_dah.
 https://discord.gg/rr6aXU6GWT
 - Contribute to the project or suggest ideas on our [GitHub Issues]
 https://github.com/zippity1/zippity-official/issues
+
+## Adding Zippity Tokens 
+***You can confirm token address on Solscan > https://solscan.io/token/C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump
+
+***Trusted Instructional Source
+
+Check Phantom's official guide: https://help.phantom.app
+
+*** How to Set Up Phantom Wallet https://youtu.be/1xm-HV8u0PA?si=YEtJjJQX8gJB60Re
